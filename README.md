@@ -19,7 +19,7 @@ It integrates a **Judgment Gyroscope** (steadiness), an **Ethical Engine** (sequ
 ---
 
 ## Canonical Artifact
-- **Canonical PDF (reader‑friendly):** *(we will add your Google Drive link next step)*
+- **Canonical PDF (reader‑friendly):** https://drive.google.com/file/d/1sLWYZQiIdbYkT_Ez671nY1rAdHuNwp04/view?usp=sharing 
 - **SHA‑256 (file integrity):** *(we will add the hash after that)*
 
 (When the hash here matches the PDF’s computed hash, you’re looking at the exact canonical file.)
