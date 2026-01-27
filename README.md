@@ -19,7 +19,7 @@ It integrates a **Judgment Gyroscope** (steadiness), an **Ethical Engine** (sequ
 ---
 
 ## Canonical Artifact
-- **Canonical PDF (reader‑friendly):** https://drive.google.com/file/d/1sLWYZQiIdbYkT_Ez671nY1rAdHuNwp04/view?usp=sharing 
+- **Canonical PDF (timestamped on GitHub):** https://github.com/DomFlamLaw/Judgment-Premised-Processing/blob/main/012626%20JPP%201.3b%20Under%20Pressure.pdf
 - **SHA‑256 (file integrity):** *(we will add the hash after that)*
 
 (When the hash here matches the PDF’s computed hash, you’re looking at the exact canonical file.)
