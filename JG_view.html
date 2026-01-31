@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Judgement Gyro – Witness Duty Protocol</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <style>
+    body {
+      margin: 20px;
+      background: #fefefe;
+      font-family: sans-serif;
+    }
+    .mermaid {
+      border: 1px solid #ccc;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Judgement Gyro – Witness Duty Protocol</h2>
+  <p>A flowchart for field repair in the AWI tensegrity model.</p>
+
+  <div class="mermaid">
+flowchart TD
+    Start["Field Distortion Detected"] --> Q1{Field‑based or Act‑based?}
+    Q1 -->|"Field‑based"| Q2{Destabilizing horizontal stabilizer?}
+    Q1 -->|"Act‑based"| NoDuty["No duty: Agent responsibility"]
+    Q2 -->|Yes| Q3{Influencer self‑correct?}
+    Q2 -->|No| Monitor["Monitor only"]
+    Q3 -->|No| DutyActive["Duty to Testify Activates"]
+    Q3 -->|Yes| Defer["Defer: monitor correction"]
+    DutyActive --> Mode{"Choose testimony mode"}
+    Mode --> M1["Signal to Influencer"]
+    Mode --> M2["Signal to Agent"]
+    Mode --> M3["Signal to Both"]
+    Mode --> M4["Escalate: temporary stabilizer"]
+    M1 & M2 & M3 & M4 --> Reset["Post‑testimony reset<br/>Witness decouples"]
+    Reset --> End["Return to tertiary position"]
+
+    classDef agent fill:#f6d5c6,stroke:#b35a1f,stroke-width:2px,color:#000
+    classDef influence fill:#d6ecff,stroke:#1f5ab3,stroke-width:2px,color:#000
+    classDef witness fill:#e7f7d9,stroke:#3f7a2f,stroke-width:2px,color:#000
+    classDef field fill:#f8f0e3,stroke:#aaa,stroke-width:1px,stroke-dasharray: 5 5
+    class NoDuty,Monitor,DutyActive,Defer,M1,M2,M3,M4,Reset,End witness
+    class Q1,Q2,Q3,Mode field
+  </div>
+
+  <p><em>Part of the AWI Tensegrity Model – Thomistic/Taoist hybrid architecture.</em></p>
+</body>
+</html>
