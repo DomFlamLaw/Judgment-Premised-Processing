@@ -1,0 +1,3 @@
+git add -A
+git commit -m "Stabilize repo: confirm Mermaid rendering and baseline structure"
+git push
