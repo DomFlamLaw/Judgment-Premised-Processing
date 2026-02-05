@@ -1,9 +1,7 @@
 ```mermaid
 # CST / JPP Operator’s Manual
 *(Repository Layout)*
-
 ## Manual (Modules)
-
 - modules/00_initial-statement.md
 - modules/01_cst-fourfold-mapping.md
 - modules/02_jpp-kata-and-physics.md
@@ -13,13 +11,9 @@
 - modules/06_vallor-integration.md
 - modules/07_witness-moment-chart.md
 - modules/08_witness-moment-containment-irrational-agent.md
-
 ## Case Studies
-
 - case-studies/07_buddhist-march-on-petersburg.md
-
 ## PDFs
-
 - pdf/  
   *(Frozen artifacts – non-authoritative snapshots of the live modules)*
 ```
