@@ -1,32 +1,71 @@
-# JPP?1.3b — Judgment Premised Processing
-*A Thomistic Operating System for Disciplined, AltitudeAware Action*
-
-**Author:** Dominic G. Flamiano, OP, JD  
-**Version:** 1.3b (Frozen Trunk) — Published **[DATE]**
-
+title: CST–JPP: Catholic Social Teaching: Judgment & Prudential Praxis The Canonical Initial Statement
+module: 00
+version: 1.0
+updated: 2026-02-01
+author: Dominic G. Flamiano
 ---
 
-## What Is JPP?
-**JPP?1.3b** is a fivephase discipline for human judgment under pressure:
+# CST–JPP: The Canonical Initial Statement
 
-**Frame ? Receive & Sense ? Orient & Align ? Act Vector ? Iterate**
+## 1. The Problem: Drift, Confusion, Opacity
+Modern life accelerates faster than inherited judgment systems can metabolize. The symptoms are everywhere:
+- Drift — losing orientation in the noise
+- Confusion — collapsing under competing values and narratives
+- Opacity — lacking a way to see what matters and what to do next
 
-It integrates a **Judgment Gyroscope** (steadiness), an **Ethical Engine** (sequenced moves), the **Cardinal/Theological virtue axes** (proportion + orientation), and **WuWei timing** (disciplined nonaction). The result is **proportionate, altitudeaware action** that reduces noise, prevents overreaction, and compresses ethically when time is short.
+These are structural conditions, not personal failures. When the world becomes chaotic, the operator needs better instruments — not more willpower or slogans. What’s missing is a shared grammar for making sense of moments and a disciplined method for acting inside them.
 
-> One sentence: *a human discipline that makes decisions cleaner—fast when needed, restrained when right.*
+The CST–JPP interface provides both.
 
----
+## 2. CST 2026: An Operator’s Manual for Moments
+CST is not a library of principles. It is an operator’s manual for moments — a way of reading the world that preserves dignity, agency, and responsibility under pressure.
 
-## Canonical Artifact
-- **Canonical PDF:** [`JPP_1.3b.pdf`](./JPP_1.3b.pdf) *(or link to your site if you prefer)*
-- **SHA256 (file integrity):** `[SHA-256 HASH]`
+CST 2026 reframes the tradition as a moment‑diagnostic system built on four perennial questions:
+- What human dignity is at stake
+- What solidarity obligations are activated
+- What structures of justice shape the field
+- What common good must be protected or restored
 
-Any change to the PDF will yield a different hash. This fingerprint certifies the exact content of the canonical release.
+These are axes of perception. CST gives the operator moral altitude — clarity about what kind of moment they are in.
 
+## 3. JPP: Steering in a Chaotic World
+The Judgment and Prudence Praxis (JPP) is the steering mechanism — a kata for disciplined action when the world is loud and ambiguous.
+
+Where CST clarifies what matters, JPP clarifies what to do.
+
+JPP provides:
+- Orientation — naming the moment and its forces
+- Stability — preventing drift and distortion
+- Pace — matching tempo without being swallowed by it
+- Agency — keeping the human operator at the moral center
+
+Together, CST and JPP form a two‑part instrument:
+- CST: See the moment
+- JPP: Steer the moment
+
+## 4. The Architecture: How the System Holds Under Load
+
+### 4a. Con + Facere: The Shared Act of Making
+Con + facere names the disciplined collaboration between human agents, communities, and the systems yoked to them. It is the antidote to isolation and reactive fragmentation.
+
+### 4b. The Yoke and Harness
+The yoke does not spin, decide, or overpower. It constrains tilt, prevents drift, and keeps the operator centered. It is a stabilizer, not a source of agency.
+
+### 4c. Horizontal Stabilizers: The Cardinal Virtues
+Prudence, Justice, Fortitude, Temperance — the plane that prevents roll into excess or collapse.
+
+### 4d. Vertical Stabilizers: Faith, Hope, Love
+The keel and direction. They prevent yaw — twisting away from the true course.
+
+### 4e. The Moment of Witness
+Where judgment becomes testimony. Where the architecture proves itself in lived reality.
+
+## Canonical Closure
+CST–JPP restores clarity, agency, responsibility, and the ability to act without distortion. It is a manual for operating inside moments — not a system for judging people.
 ---
 
 ## Stewardship Notice
-**JPP?1.3b is a discipline for human judgment, not a substitute for it.**  
+*CST:JPP is a discipline for human judgment, not a substitute for it.**  
 Proper use presumes formation in ethics, authority, and consequence. Misapplication—especially as a control device, a speed hack, or a proxy for conscience—is outside scope and contrary to design. Use requires attribution and respect for the model’s limits; derivative methods must disclose divergence from JPP?1.3b.
 
 ---
@@ -35,9 +74,9 @@ Proper use presumes formation in ethics, authority, and consequence. Misapplicat
 - **Use:** Free to **read, teach, and practice ASIS** in noncommercial settings **with attribution**.  
 - **No Derivatives:** Do not modify, rebrand, or publish derivative frameworks **without written permission**.  
 - **No Automation:** Do not embed JPP as a software decision component **without explicit license** and **humanintheloop** safeguards.  
-- **Attribution (short):** “Used with permission from **JPP?1.3b (Dominic G. Flamiano, OP, JD)**.”
+- **Attribution (short):** “Used with permission from **CST:JPP 2.2 (Dominic G. Flamiano, OP, JD)**.”
 
-> Suggested label: **CC BYNCND 4.0** (with carveouts for teaching/practice)
+> Suggested label: **CCP:JPP 2.2** (with carveouts for teaching/practice)
 
 ---
 
@@ -75,9 +114,10 @@ For permissions or questions, contact **[your email]**.
 ---
 
 ### Legal
-JPP provides a judgment discipline. It is **not** legal, medical, or administrative advice.  
+CST:JPP provides a judgment discipline. It is **not** legal, medical, or administrative advice.  
 Users remain responsible for their decisions and outcomes.
 
-© [YEAR] Dominic G. Flamiano, OP, JD. All rights reserved.
+© [2026] Dominic G. Flamiano, OP, JD. All rights reserved.
+
 
 
