@@ -1,7 +1,8 @@
-title: CST–JPP: Catholic Social Teaching: Judgment & Prudential Praxis The Canonical Initial Statement
+title: CST–JPP: Catholic Social Teaching: Judgment & Prudential Praxis 
+The Canonical Initial Statement
 module: 00
-version: 1.0
-updated: 2026-02-01
+version: 2.2
+updated: 2026-02-09
 author: Dominic G. Flamiano
 ---
 
@@ -118,6 +119,7 @@ CST:JPP provides a judgment discipline. It is **not** legal, medical, or adminis
 Users remain responsible for their decisions and outcomes.
 
 © [2026] Dominic G. Flamiano, OP, JD. All rights reserved.
+
 
 
 
