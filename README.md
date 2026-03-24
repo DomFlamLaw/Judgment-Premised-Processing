@@ -73,7 +73,7 @@ Proper use presumes formation in ethics, authority, and consequence. Misapplicat
 
 ## License & Use
 - **Use:** Free to **read, teach, and practice ASIS** in noncommercial settings **with attribution**.  
-- **No Derivatives:** Do not modify, rebrand, or publish derivative frameworks **without written permission**.  
+- **Open source - share with some attribution**.  
 - **No Automation:** Do not embed JPP as a software decision component **without explicit license** and **humanintheloop** safeguards.  
 - **Attribution (short):** “Used with permission from **CST:JPP 2.2 (Dominic G. Flamiano, OP, JD)**.”
 
