@@ -108,9 +108,28 @@ All **YES**:
 
 ## Provenance & Contact
 This repository serves as the **public timestamp** and **immutable history** for JPP?1.3b.  
-For permissions or questions, contact **[your email]**.
+For permissions or questions, contact **domflam@hotmail.com**.
 
 **Canonical homepage:** **[CANONICAL_URL]**
+
+---
+## Stewardship & Licensing
+Canonical Trunk (CST:JPP 1.3b)  
+Frozen. No derivatives. No renaming, reordering, or structural modification.
+Attribution required for all use.
+This protects lineage and prevents distortion.
+
+Branches (CST:JPP‑X)  
+Permitted with attribution and mandatory disclosure of divergence.
+Share‑alike: derivatives must remain open and may not be enclosed.
+This honors the universal destination of goods.
+
+Automation Prohibition  
+JPP may not be embedded in automated decision systems or AI workflows without explicit license and human‑in‑the‑loop safeguards.
+JPP is a discipline for human judgment, not a substitute for it.
+
+Attribution (short form)  
+“Used with permission from CST:JPP 1.3b (Dominic G. Flamiano, OP, JD).”
 
 ---
 
