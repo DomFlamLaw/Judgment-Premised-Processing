@@ -21,7 +21,7 @@ The CST–JPP interface provides both.
 ## 2. CST 2026: An Operator’s Manual for Moments
 CST is not a library of principles. It is an operator’s manual for moments — a way of reading the world that preserves dignity, agency, and responsibility under pressure.
 
-God is the initial startig point and the hoped for end in beatitude. The first stance is Universal Destination of Goods (UDG), 
+God is the initial starting point and the hoped for end in beatitude. The first stance is Universal Destination of Goods (UDG), 
 does the act exploit, exclude, and extract OR does it provide for the goods to be spread in commmon, is it Babel or the
 walls of Jerusalem communally rebuilt?
 
