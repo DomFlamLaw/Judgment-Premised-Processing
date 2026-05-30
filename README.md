@@ -1,4 +1,4 @@
-title: CST–JPP: Catholic Social Teaching: Judgment & Prudential Praxis 
+title: CST–JPP: Catholic Social Teaching: Judgment Premised Processing 
 The Canonical Initial Statement
 module: 00
 version: 2.2
